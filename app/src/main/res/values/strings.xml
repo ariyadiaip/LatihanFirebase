@@ -1,0 +1,9 @@
+<resources>
+    <array name="genres">
+        <item>Pop</item>
+        <item>Jazz</item>
+        <item>Rock</item>
+        <item>Reggae</item>
+    </array>
+    <string name="app_name">Latihan Firebase</string>
+</resources>
